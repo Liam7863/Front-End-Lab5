@@ -1,0 +1,14 @@
+.Our_Story_Continues____ {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.7);
+  position: absolute;
+  left: 643.844px;
+  top: 3893.072px;
+  z-index: 118;
+}

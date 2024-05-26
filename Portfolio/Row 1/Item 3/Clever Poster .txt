@@ -1,0 +1,12 @@
+.Clever_Poster_ {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(51, 51, 51);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 965.844px;
+  top: 1855.7px;
+  z-index: 184;
+}

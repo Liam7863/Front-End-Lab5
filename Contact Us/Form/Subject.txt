@@ -1,0 +1,13 @@
+.Subject {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(187, 187, 187);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 249.134px;
+  top: 5565.6px;
+  z-index: 36;
+}

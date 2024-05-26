@@ -1,0 +1,12 @@
+.Product_Mock_Up {
+  font-size: 14px;
+  font-family: "DroidSerif";
+  color: rgb(115, 115, 115);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 316.938px;
+  top: 2320.85px;
+  z-index: 174;
+}

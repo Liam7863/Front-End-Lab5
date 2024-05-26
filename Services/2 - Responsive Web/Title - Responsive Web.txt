@@ -1,0 +1,12 @@
+.Title___Responsive_Web {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  line-height: 4.167;
+  text-align: left;
+  position: absolute;
+  left: 627.844px;
+  top: 1104.387px;
+  z-index: 213;
+}

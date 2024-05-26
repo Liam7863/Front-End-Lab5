@@ -1,0 +1,13 @@
+.Title {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 391.844px;
+  top: 3302.968px;
+  z-index: 132;
+}

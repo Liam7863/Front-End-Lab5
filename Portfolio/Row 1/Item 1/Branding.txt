@@ -1,0 +1,12 @@
+.Branding {
+  font-size: 14px;
+  font-family: "DroidSerif";
+  color: rgb(115, 115, 115);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 342.937px;
+  top: 1877.85px;
+  z-index: 197;
+}

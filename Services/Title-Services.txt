@@ -1,0 +1,13 @@
+.Title_Services {
+  font-size: 40px;
+  font-family: "Montserrat";
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.875;
+  text-align: center;
+  position: absolute;
+  left: 602.404px;
+  top: 797.5px;
+  z-index: 224;
+}

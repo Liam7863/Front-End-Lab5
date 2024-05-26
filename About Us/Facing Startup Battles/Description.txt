@@ -1,0 +1,11 @@
+.Description {
+  font-size: 14px;
+  font-family: "RobotoSlab";
+  color: rgb(119, 119, 119);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 830.134px;
+  top: 3088.85px;
+  z-index: 138;
+}

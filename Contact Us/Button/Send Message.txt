@@ -1,0 +1,13 @@
+.Send_Message {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 626.096px;
+  top: 5651.2px;
+  z-index: 30;
+}

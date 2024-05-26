@@ -1,0 +1,20 @@
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 5900px;
+  z-index: 247;
+}
+.Logo_Treehouse {
+  font-size: 26px;
+  font-family: "Wisdom";
+  color: rgb(255, 255, 255);
+  line-height: 1.577;
+  text-align: left;
+  position: absolute;
+  left: 235.937px;
+  top: 37.499px;
+  z-index: 246;
+}
+

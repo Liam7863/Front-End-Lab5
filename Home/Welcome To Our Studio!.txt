@@ -1,0 +1,12 @@
+.Welcome_To_Our_Studio_ {
+  font-size: 40px;
+  font-family: "DroidSerif";
+  color: rgb(255, 255, 255);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 485.938px;
+  top: 269px;
+  z-index: 235;
+}

@@ -1,0 +1,11 @@
+.©_Copyright_2014_FreebiesXpress_com {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(85, 85, 85);
+  line-height: 1.571;
+  text-align: left;
+  position: absolute;
+  left: 229.937px;
+  top: 5860.253px;
+  z-index: 3;
+}
